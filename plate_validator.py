@@ -34,3 +34,7 @@ def extract_plate(plate_numbers):
         result.append("Even" if last_digit % 2 == 0 else "Odd")
         
     return result
+
+if __name__ == '__main__':
+    sample = ['D 1011 HY', 'BHS 123 S', 'D 423', 'DA 7890 G']
+    print(extract_plate(sample))
