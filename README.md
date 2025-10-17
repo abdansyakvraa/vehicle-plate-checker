@@ -127,10 +127,6 @@ print(result)
 ['Odd', 'Invalid', 'Invalid', 'Even']
 ```
 
-> 🙏 *Thanks for catching this! Always double-check examples.*
-
----
-
 ## 🚀 How to Run
 
 1. Ensure you have **Python 3.7+** installed
