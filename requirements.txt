@@ -1,0 +1,3 @@
+# Dependencies for the project
+# Example: pandas==2.2.0
+# Currently, no external dependencies required
